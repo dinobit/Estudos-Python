@@ -1,0 +1,6 @@
+Homem de Ferro;2008;N/A
+O Incrível Hulk;2008;N/A
+Homem de Ferro 2;2010;N/A
+Thor;2011;N/A
+Capitão América;2011;N/A
+Vingadores;2012;N/A
