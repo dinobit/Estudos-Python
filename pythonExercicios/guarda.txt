@@ -1,6 +1,0 @@
-Star Wars;1977;George Lucas
-Matrix;1999;Whatchovisk
-Hellboy;2005;Del Toro
-Star Wars;1977;George Lucas
-Matrix;1999;Whatchovisk
-Hellboy;2005;Del Toro
